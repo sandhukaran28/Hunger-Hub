@@ -1,0 +1,46 @@
+body
+{
+background-image: url("https://wallpaperaccess.com/full/424569.jpg");
+}
+#main
+{
+    background-color: palegoldenrod;
+}
+#amt1
+{
+    display: none;
+}
+#amt2
+{
+    display: none;
+}
+#amt3
+{
+    display: none;
+}
+#amt4
+{
+    display: none;
+}
+#pic
+{
+    padding-left: 570px;
+    padding-bottom: 20px;
+}
+#main
+{
+    width:fit-content;
+    border-radius: 10px;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+}
+#form1
+{
+    padding: 30px;
+}
+
+.alg
+{
+    text-align: left;
+}
